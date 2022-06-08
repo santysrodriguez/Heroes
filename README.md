@@ -3,4 +3,4 @@
 
 # Gero Tapia
 # Ramiro Quiroga
-# Santiago Rodriguez
+# Santiago Rodriguez,  edad : 21 años,  Ciudad : Cutral-co
