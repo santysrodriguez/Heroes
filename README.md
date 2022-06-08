@@ -1,6 +1,6 @@
 ##  Tp Heroe 
 
 
-# Gero Tapia
-# Ramiro Quiroga
-# Santiago Rodriguez,  edad : 21 años,  Ciudad : Cutral-co
+# Gero Tapia, 24 , Cutral co - Neuquen
+# Ramiro Quiroga, edad 21, San Miguel.
+# Santiago Rodriguez, edad : 21, ciudad : Cutral-co
