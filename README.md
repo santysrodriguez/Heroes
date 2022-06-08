@@ -1,6 +1,6 @@
 ##  Tp Heroe 
 
 
-# Gero Tapia
+# Gero Tapia, 24 , Cutral co - Neuquen
 # Ramiro Quiroga
 # Santiago Rodriguez
